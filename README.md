@@ -43,15 +43,15 @@ Click the "Save" icon in the top right corner of the screen to save the note
 To view an existing note, click on its title in the left-hand column
 
 Application Image
-
+![alt text](../images/image1.png)
 
 Deployed Application
 
-To see the application in action, check out this 
+To see the application in action, check out this:
 
 Sample Note Create with the Application
 
-alt SampleNoteCreatedwiththeApplication
+![alt text](../images/image2.png)
 
 Contributing
 
